@@ -1,0 +1,20 @@
+0:Syndrome des anti-phospholipides
+1:Sclérodermie
+2:Accident Vasculaire Cérébral
+3:Péricardite;lupus
+4:Takayasu
+5:Polyarthrite rhumatoïde
+6:AVC;Lupus
+7:SIDA
+8:Tuberculose pulmonaire
+9:Pyélonéphrite
+10:Diabète
+11:Greffe rénale
+12:Hépatite Auto-immune
+13:Fausse couche
+14:Infarctus du myocarde
+15:Syndrome de Raynaud
+16:Dermatomyosite
+17:Cancer de la prostate
+18:Insuffisance rénale aiguë
+19:Purpura thrombopénique idiopathique
