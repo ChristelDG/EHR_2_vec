@@ -1,0 +1,9 @@
+nephro_lupus:glomérulonéphrite;lupus
+PINS_scl:pneumopathie interstitielle;sclérodermie
+osteoporose:ostéoporose
+pneumopathie_infectieuse:pneumopathie infectieuse
+Hypertension_pulmonaire:hypertension pulmonaire
+RGO:reflux gastro-oesophagien
+SGS:syndrome gougerot sjögren
+EP:embolie pulmonaire
+
